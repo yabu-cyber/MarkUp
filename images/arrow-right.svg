@@ -1,0 +1,20 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6.585" height="11.175" viewBox="0 0 6.585 11.175">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="6.585" height="11.175" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Mask" d="M9.462.292l-3.88,3.88L1.7.292A1,1,0,0,0,.292,1.7l4.59,4.59a1,1,0,0,0,1.41,0l4.59-4.59a1,1,0,0,0,0-1.41,1.017,1.017,0,0,0-1.42,0Z" transform="translate(7.5 15.88) rotate(-90)"/>
+    </clipPath>
+  </defs>
+  <g id="_00_Icon_Arrow_Right" data-name="00/Icon/Arrow/Right" clip-path="url(#clip-path)">
+    <path id="Mask-2" data-name="Mask" d="M9.462.292l-3.88,3.88L1.7.292A1,1,0,0,0,.292,1.7l4.59,4.59a1,1,0,0,0,1.41,0l4.59-4.59a1,1,0,0,0,0-1.41,1.017,1.017,0,0,0-1.42,0Z" transform="translate(0 11.175) rotate(-90)"/>
+    <g transform="translate(-7.5 -4.705)" clip-path="url(#clip-path-2)">
+      <g id="_00_Color_White" data-name="00/Color/White">
+        <rect id="_00_Color_White_background" data-name="00/Color/White background" width="20" height="20" fill="rgba(0,0,0,0)"/>
+        <rect id="Rectangle" width="20" height="20" fill="#092947"/>
+      </g>
+    </g>
+  </g>
+</svg>
